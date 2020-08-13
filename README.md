@@ -2,6 +2,7 @@
 - This project is about creating a custom-made gaming controller.
 - An I^2C GPIO buffer extender is used to increase the number of GPIOs available for the buttons.
 - Communication between the device and server is in UDP.
+- The mapping between the buttons and keyboard can be modified at the server code.
 
 **Components used**
 

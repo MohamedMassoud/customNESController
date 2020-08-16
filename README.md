@@ -1,5 +1,5 @@
 # Custom NES Controller
-- This project is about creating a custom-made chargebale wireless gaming controller through a LAN network.
+- This project is about creating a custom-made chargeable wireless gaming controller through a LAN network.
 - An I^2C GPIO buffer extender is used to increase the number of GPIOs available for the buttons.
 - Communication between the device and server is in UDP.
 - The mapping between the buttons and keyboard can be modified at the server code.
